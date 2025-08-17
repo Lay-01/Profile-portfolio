@@ -1,0 +1,182 @@
+*{
+    background-color: black;
+    
+}
+#navbar{
+    
+    position: fixed;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    border: none;
+    height: 40px;
+    border-radius: 3px;
+    width: 100%;
+}
+
+#home{
+    font-family: cursive;
+    margin-left: 2%;
+    background-color: transparent;
+}
+#it{
+    font-family: cursive;
+    background-color: transparent;
+    margin-left: 20%;
+}
+#extra{
+        font-family: cursive;
+        background-color: transparent;
+        margin-left: 20%;
+
+}
+#certi{
+        font-family: cursive;
+        background-color: transparent;
+        margin-left: 20%;
+
+}
+#home:hover{
+    font-weight: bolder;
+}
+#it:hover{
+    font-weight: bolder;
+
+}
+#extra:hover{
+    font-weight: bolder;
+
+}
+#certi:hover{
+    font-weight: bolder;
+
+}
+#main1{
+    display: flex;
+}
+#imgframe{
+     border:2px white solid;
+    border-radius: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+    width: 255px;
+    height: 305px;
+}
+#imgframe:hover{
+    box-shadow: 2px 2px white;
+}
+#imgm{
+    width: 255px;
+    height: 305px;
+    border-radius: 10px;
+   
+}
+#imgm:hover{
+    width:270px;
+    height:320px;
+}
+#basic{
+    color: white;
+    text-align: center;
+    height:200px;
+    width:800px;
+    border-radius: 280px;
+    border:1.5px dashed #FFFFF0;
+    margin-top: 210px;
+    margin-left: 130px;
+    
+}
+#basic h1{
+    display: inline-flex;
+    font-family: Ink Free;
+}
+#basic h1:hover{
+    font-family: Luminari;
+}
+#bio{
+    font-style: italic;
+    font-size: larger;
+    background-color: transparent;
+    padding-top: none;
+    text-align: center;
+}
+#socials{
+    display:flex;
+    text-align: center;
+    border:none;
+}
+#lin{
+        border:none;
+     text-align: center;
+    border-radius: 10px;
+    margin-top: 150px;
+    margin-left: 70px;
+    width: 200px;
+    height: 150px;
+}
+#ins{
+
+         border:none;
+          margin-top: 150px;
+          margin-left: 110px;
+         border-radius: 10px;
+         width: 200px;
+         height: 150px;
+}
+#resume{
+             border:none;
+             border-radius: 10px;
+          margin-top: 150px;
+          margin-left: 110px;
+         width: 200px;
+         height: 150px;
+}
+#nxt{
+             border:none;
+             border-radius: 10px;
+         margin-left: 110px;
+          margin-top: 150px;
+      width: 200px;
+    height: 150px;
+}
+
+#cl1{
+    
+    color: white;
+    
+}
+#lic{
+    font-size: 12ex;
+    margin-top: 15%;
+    color: aliceblue;
+}
+#inc{
+    font-size: 12ex;
+    margin-top: 15%;
+    color: aliceblue;
+}
+#rec{
+    font-size: 12ex;
+    margin-top: 15%;
+    color: aliceblue;
+}
+#nec{
+    font-size: 12ex;
+    margin-top: 15%;
+    color: aliceblue;
+}
+#ins:hover{
+    font-family:Century Gothic;
+
+}
+#lin:hover{
+        font-family:Century Gothic;
+}
+#resume:hover{
+        font-family:Century Gothic;
+
+}
+#nxt:hover{
+        font-family:Century Gothic;
+
+}

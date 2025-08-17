@@ -1,0 +1,237 @@
+*{
+    background-color: black;
+    
+}
+#navbar{
+    
+    position: fixed;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    border: none;
+    height: 40px;
+    border-radius: 3px;
+    width: 100%;
+}
+#home{
+    font-family: cursive;
+    margin-left: 2%;
+    background-color: transparent;
+}
+#it{
+    font-family: cursive;
+    background-color: transparent;
+    margin-left: 20%;
+}
+#extra{
+        font-family: cursive;
+        background-color: transparent;
+        margin-left: 20%;
+
+}
+#certi{
+        font-family: cursive;
+        background-color: transparent;
+        margin-left: 20%;
+
+}
+#home:hover{
+    font-weight: bolder;
+}
+#it:hover{
+    font-weight: bolder;
+
+}
+#extra:hover{
+    font-weight: bolder;
+
+}
+#certi:hover{
+    font-weight: bolder;
+
+}
+#skills{
+    display: flex;
+}
+#skill1{
+     color: white;
+    height:200px;
+    width:800px;
+    border-radius: 10px;
+     margin-right: 50px;
+    border:1.5px solid #FFFFF0;
+    margin-top: 170px;
+    margin-left: 200px;
+}
+#jframe{
+    border:2px white solid;
+    border-radius: 10px;
+    margin-top: 170px;
+    margin-left: 40px;
+    width: 250px;
+    height: 200px;
+}
+#hcj{
+     width: 250px;
+    height: 200px;
+}
+
+#jf1{
+    border:2px white solid;
+    border-radius: 10px;
+    margin-top: 170px;
+   
+    margin-left: 40px;
+    width: 250px;
+    height: 200px;
+}
+#skill2{
+     color: white;
+    height:200px;
+    width:800px;
+    border-radius: 10px;
+    border:1.5px solid #FFFFF0;
+  margin-top: 170px;
+    margin-left: 200px;
+     margin-right: 50px;
+}
+
+#jf2{
+    border:2px white solid;
+    border-radius: 10px;
+    margin-top: 170px;
+   
+    margin-left: 40px;
+    width: 250px;
+    height: 200px;
+}
+#skill3{
+     color: white;
+    height:200px;
+    width:800px;
+    border-radius: 10px;
+    border:1.5px solid #FFFFF0;
+  margin-top: 170px;
+    margin-left: 200px;
+     margin-right: 50px;
+}
+
+#jf3{
+    border:2px white solid;
+    border-radius: 10px;
+    margin-top: 170px;
+   
+    margin-left: 40px;
+    width: 250px;
+    height: 200px;
+}
+#skill4{
+     color: white;
+    height:200px;
+    width:800px;
+    border-radius: 10px;
+    border:1.5px solid #FFFFF0;
+  margin-top: 170px;
+    margin-left: 200px;
+     margin-right: 50px;
+}
+
+#jf4{
+    border:2px white solid;
+    border-radius: 10px;
+    margin-top: 170px;
+   
+    margin-left: 40px;
+    width: 250px;
+    height: 200px;
+}
+#skill5{
+     color: white;
+    height:200px;
+    width:800px;
+    border-radius: 10px;
+    border:1.5px solid #FFFFF0;
+  margin-top: 170px;
+    margin-left: 200px;
+     margin-right: 50px;
+}
+
+#socials{
+    display:flex;
+    text-align: center;
+    border:none;
+}
+#lin{
+        border:none;
+     text-align: center;
+    border-radius: 10px;
+    margin-top: 150px;
+    margin-left: 70px;
+    width: 200px;
+    height: 150px;
+}
+#ins{
+
+         border:none;
+          margin-top: 150px;
+          margin-left: 110px;
+         border-radius: 10px;
+         width: 200px;
+         height: 150px;
+}
+#resume{
+             border:none;
+             border-radius: 10px;
+          margin-top: 150px;
+          margin-left: 110px;
+         width: 200px;
+         height: 150px;
+}
+#nxt{
+             border:none;
+             border-radius: 10px;
+         margin-left: 110px;
+          margin-top: 150px;
+      width: 200px;
+    height: 150px;
+}
+#cl1{
+    
+    color: white;
+    
+}
+#lic{
+    font-size: 12ex;
+    margin-top: 15%;
+    color: aliceblue;
+}
+#inc{
+    font-size: 12ex;
+    margin-top: 15%;
+    color: aliceblue;
+}
+#rec{
+    font-size: 12ex;
+    margin-top: 15%;
+    color: aliceblue;
+}
+#nec{
+    font-size: 12ex;
+    margin-top: 15%;
+    color: aliceblue;
+}
+#ins:hover{
+    font-family:Century Gothic;
+
+}
+#lin:hover{
+        font-family:Century Gothic;
+}
+#resume:hover{
+        font-family:Century Gothic;
+
+}
+#nxt:hover{
+        font-family:Century Gothic;
+
+}

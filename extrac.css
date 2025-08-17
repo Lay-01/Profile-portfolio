@@ -1,0 +1,138 @@
+*{
+    background-color: black;
+    
+}
+#navbar{
+    
+    position: fixed;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    border: none;
+    height: 40px;
+    border-radius: 3px;
+    width: 100%;
+}
+#home{
+    font-family: cursive;
+    margin-left: 2%;
+    background-color: transparent;
+}
+#it{
+    font-family: cursive;
+    background-color: transparent;
+    margin-left: 20%;
+}
+#extra{
+        font-family: cursive;
+        background-color: transparent;
+        margin-left: 20%;
+
+}
+#certi{
+        font-family: cursive;
+        background-color: transparent;
+        margin-left: 20%;
+
+}
+#home:hover{
+    font-weight: bolder;
+}
+#it:hover{
+    font-weight: bolder;
+
+}
+#extra:hover{
+    font-weight: bolder;
+
+}
+#certi:hover{
+    font-weight: bolder;
+
+}
+#extra{
+    display: flex;
+}
+#e1{
+     color: white;
+    height:200px;
+    width:800px;
+    border-radius: 10px;
+     margin-right: 50px;
+    border:1.5px solid #FFFFF0;
+    margin-top: 170px;
+    margin-left: 200px;
+}
+#guit{
+    border:2px white solid;
+    border-radius: 10px;
+    margin-top: 170px;
+    margin-left: 40px;
+    width: 250px;
+    height: 200px;
+}
+#hcj{
+     width: 250px;
+    height: 200px;
+}
+
+#thea{
+    border:2px white solid;
+    border-radius: 10px;
+    margin-top: 170px;
+   
+    margin-left: 40px;
+    width: 250px;
+    height: 200px;
+}
+#e2{
+     color: white;
+    height:200px;
+    width:800px;
+    border-radius: 10px;
+    border:1.5px solid #FFFFF0;
+  margin-top: 170px;
+    margin-left: 200px;
+     margin-right: 50px;
+}
+
+#lit{
+    border:2px white solid;
+    border-radius: 10px;
+    margin-top: 170px;
+   
+    margin-left: 40px;
+    width: 250px;
+    height: 200px;
+}
+#e3{
+     color: white;
+    height:200px;
+    width:800px;
+    border-radius: 10px;
+    border:1.5px solid #FFFFF0;
+  margin-top: 170px;
+    margin-left: 200px;
+     margin-right: 50px;
+}
+
+#poetry{
+    border:2px white solid;
+    border-radius: 10px;
+    margin-top: 170px;
+   
+    margin-left: 40px;
+    width: 250px;
+    height: 200px;
+}
+#e4{
+     color: white;
+    height:200px;
+    width:800px;
+    border-radius: 10px;
+    border:1.5px solid #FFFFF0;
+  margin-top: 170px;
+    margin-left: 200px;
+     margin-right: 50px;
+}
+
